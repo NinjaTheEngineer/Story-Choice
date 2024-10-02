@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5fd0b51c8d9e8644bb46392dfbdc03d, type: 3}
   m_Name: A
   m_EditorClassIdentifier: 
-  storyDescription: I need to find my missing teammates. \n(Search the tent for any
-    supplies or clues).
-  storyResolution: You find a map with a rough outline of the expedition's path,
+  storyDescription: "I need to find my missing teammates. \n(Search the tent for
+    any supplies or clues).\t"
+  storyResolution: 'You find a map with a rough outline of the expedition''s path,
     with a handwritten note suggesting that the next checkpoint is marked by a large
-    boulder. You also find a compass and a flare gun.
+    boulder.
+
+    You also find a compass and a flare gun.'
   nextStoryChoices:
   - {fileID: 11400000, guid: aaf76c0f57af0074590aa4ca75f675c6, type: 2}
   - {fileID: 11400000, guid: 171652c5a5962664991d4839cde4c70f, type: 2}

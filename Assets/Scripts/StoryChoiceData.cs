@@ -5,7 +5,9 @@ using UnityEngine;
 
 [CreateAssetMenu(menuName ="Choice", fileName ="Create new story choice")]
 public class StoryChoiceData : NScriptableObject {
+    [Multiline]
     public string storyDescription;
+    [Multiline]
     public string storyResolution;
     public List<StoryChoiceData> nextStoryChoices;
 
