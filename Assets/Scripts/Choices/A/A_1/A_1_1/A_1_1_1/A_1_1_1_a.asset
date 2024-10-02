@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fd0b51c8d9e8644bb46392dfbdc03d, type: 3}
+  m_Name: A_1_1_1_a
+  m_EditorClassIdentifier: 
+  storyDescription: I need to untie my teammates and get them to safety.
+  storyResolution: You free your teammates and start making your way out of the temple,
+    but you hear footsteps behind you. You turn around and see a group of armed mercenaries
+    approaching.
+  nextStoryChoices:
+  - {fileID: 11400000, guid: 61da91b924f798142b06b79fa34a7877, type: 2}
+  - {fileID: 11400000, guid: d61fc95c5c136564a8b0fe54f249c30d, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fd0b51c8d9e8644bb46392dfbdc03d, type: 3}
+  m_Name: A_1_1
+  m_EditorClassIdentifier: 
+  storyDescription: I need to follow those footprints and find my teammates.
+  storyResolution: You stumble upon an old temple, partially hidden by the trees.
+    You can hear faint voices coming from inside.
+  nextStoryChoices:
+  - {fileID: 11400000, guid: 5a84f7679de13b34e9a75058c1a04b0d, type: 2}
+  - {fileID: 11400000, guid: 6fc5a9ce253cd5a44baf5797f0a881ec, type: 2}
+  - {fileID: 11400000, guid: 630ef9783446c354c8b93fd68cc19ebe, type: 2}
