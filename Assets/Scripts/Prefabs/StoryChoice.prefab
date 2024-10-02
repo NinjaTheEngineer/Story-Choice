@@ -298,4 +298,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textHolder: {fileID: 6327936700634810618}
-  typingSpeed: 0.05
+  typingSpeed: 0.025
