@@ -3,24 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using NinjaTools;
 using TMPro;
+using System;
 
 public class ChoicesContainer : Container<StoryChoice> {
     public List<StoryChoice> storyChoices;
     public StringWritter stringWritter;
-    private StoryChoiceData currentStoryChoice;
-    public string initialPresentMoment;
+    private StoryChoiceData currentStoryData;
+    //public string initialPresentMoment;
     private void Start() {
-        stringWritter.WriteSentence(initialPresentMoment);
-        stringWritter.SkipTyping();
+        //stringWritter.WriteSentence(initialPresentMoment);
+        //stringWritter.SkipTyping();
+        foreach (StoryChoice choice in storyChoices) {
+            
+        }
     }
-    public void SetNextStories(StoryChoice currentStory) {
-        var logId = "SetNextStories";
-        if(currentStory==null) {
+    public void SetCurrentStory(StoryChoiceData storyData) {
+        var logId = "SetCurrentStory";
+        if(storyData == null) {
             logw(logId, "CurrentStory is null => no-op");
             return;
         }
-        currentStoryChoice = currentStory.StoryChoiceData;
-        var nextStories = currentStory.StoryChoiceData.nextStoryChoices;
+        currentStoryData = storyData;
+        List<StoryChoiceData> nextStories = GetNextStories(currentStoryData);
         var nextStoriesCount = nextStories.Count;
         var choicesCount = storyChoices.Count;
         for (int i = 0; i < choicesCount; i++) {
@@ -37,13 +41,28 @@ public class ChoicesContainer : Container<StoryChoice> {
         //Update story resolution
         UpdateStoryResolution();
     }
+
+    public void Continue(StoryChoiceData choiceData) {
+        SetCurrentStory(choiceData);
+    }
+
+    private List<StoryChoiceData> GetNextStories(StoryChoiceData storyData) {
+        var logId = "GetNextStories";
+        if(storyData == null) {
+            logw(logId, "StoryData is null => no-op");
+            return null;
+        }
+        return storyData.NextStoryChoices;
+        
+    }
+
     public void UpdateStoryResolution() {
         var logId = "UpdateStoryResolution";
-        if(currentStoryChoice==null) {
+        if(currentStoryData==null) {
             logw(logId, "CurrentStory is null => no-op");
             return;
         }
-        var storyResolution = currentStoryChoice.storyResolution;
+        var storyResolution = currentStoryData.storyResolution;
         logd(logId, "Updating Story Resolution to "+storyResolution.logf());
         stringWritter.WriteSentence(storyResolution);
     }

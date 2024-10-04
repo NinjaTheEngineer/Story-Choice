@@ -1,0 +1,346 @@
+{
+    "enemies": [
+        {
+            "Id": 0,
+            "Name": "Kappa",
+            "Strength": 8,
+            "Health": 14
+        },
+        {
+            "Id": 1,
+            "Name": "Kappa",
+            "Strength": 8,
+            "Health": 12
+        },
+        {
+            "Id": 2,
+            "Name": "Kappa",
+            "Strength": 7,
+            "Health": 13
+        },
+        {
+            "Id": 3,
+            "Name": "Rokuro-Kubi",
+            "Strength": 7,
+            "Health": 8
+        },
+        {
+            "Id": 4,
+            "Name": "Tatsu",
+            "Strength": 11,
+            "Health": 13
+        },
+        {
+            "Id": 5,
+            "Name": "Ikiru",
+            "Strength": 12,
+            "Health": 12
+        },
+        {
+            "Id": 6,
+            "Name": "Samurai Rider",
+            "Strength": 8,
+            "Health": 9
+        },
+        {
+            "Id": 7,
+            "Name": "Rokuro-Kubi",
+            "Strength": 8,
+            "Health": 8
+        },
+        {
+            "Id": 8,
+            "Name": "Mukade",
+            "Strength": 7,
+            "Health": 20
+        },
+        {
+            "Id": 9,
+            "Name": "Trapdoor Spider",
+            "Strength": 10,
+            "Health": 12
+        },
+        {
+            "Id": 10,
+            "Name": "Water Spider",
+            "Strength": 8,
+            "Health": 10
+        },
+        {
+            "Id": 11,
+            "Name": "Undead Samurai",
+            "Strength": 9,
+            "Health": 11
+        },
+        {
+            "Id": 12,
+            "Name": "Samurai Warrior",
+            "Strength": 8,
+            "Health": 9
+        },
+        {
+            "Id": 13,
+            "Name": "Knight",
+            "Strength": 6,
+            "Health": 10
+        },
+        {
+            "Id": 14,
+            "Name": "Knight",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 15,
+            "Name": "Dark Demon",
+            "Strength": 9,
+            "Health": 10
+        },
+        {
+            "Id": 16,
+            "Name": "Samurai",
+            "Strength": 6,
+            "Health": 7
+        },
+        {
+            "Id": 17,
+            "Name": "Samurai",
+            "Strength": 8,
+            "Health": 8
+        },
+        {
+            "Id": 18,
+            "Name": "Samurai",
+            "Strength": 7,
+            "Health": 6
+        },
+        {
+            "Id": 19,
+            "Name": "Samurai",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 20,
+            "Name": "Samurai",
+            "Strength": 9,
+            "Health": 8
+        },
+        {
+            "Id": 21,
+            "Name": "Samurai",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 22,
+            "Name": "Guard",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 23,
+            "Name": "Rokuro-Kubi",
+            "Strength": 11,
+            "Health": 17
+        },
+        {
+            "Id": 24,
+            "Name": "Totate Kumo",
+            "Strength": 10,
+            "Health": 14
+        },
+        {
+            "Id": 25,
+            "Name": "Sir Tsietsin",
+            "Strength": 7,
+            "Health": 11
+        },
+        {
+            "Id": 26,
+            "Name": "Rokuro-Kubi",
+            "Strength": 7,
+            "Health": 8
+        },
+        {
+            "Id": 27,
+            "Name": "Shikome",
+            "Strength": 6,
+            "Health": 6
+        },
+        {
+            "Id": 28,
+            "Name": "Shikome",
+            "Strength": 7,
+            "Health": 5
+        },
+        {
+            "Id": 29,
+            "Name": "Saber Tooth Tiger",
+            "Strength": 10,
+            "Health": 12
+        },
+        {
+            "Id": 30,
+            "Name": "Tsietsin Guards",
+            "Strength": 9,
+            "Health": 8
+        },
+        {
+            "Id": 31,
+            "Name": "Giant Serpent",
+            "Strength": 10,
+            "Health": 10
+        },
+        {
+            "Id": 32,
+            "Name": "Shikome Guard",
+            "Strength": 8,
+            "Health": 7
+        },
+        {
+            "Id": 33,
+            "Name": "Shikome",
+            "Strength": 8,
+            "Health": 9
+        },
+        {
+            "Id": 34,
+            "Name": "Shikome",
+            "Strength": 7,
+            "Health": 8
+        },
+        {
+            "Id": 35,
+            "Name": "Creature",
+            "Strength": 8,
+            "Health": 22
+        },
+        {
+            "Id": 36,
+            "Name": "Praying Mantis Demon",
+            "Strength": 8,
+            "Health": 10
+        },
+        {
+            "Id": 37,
+            "Name": "Shura",
+            "Strength": 9,
+            "Health": 8
+        },
+        {
+            "Id": 38,
+            "Name": "Ginsei, The Rorin",
+            "Strength": 9,
+            "Health": 14
+        },
+        {
+            "Id": 39,
+            "Name": "Charcoal-Burner",
+            "Strength": 6,
+            "Health": 10
+        },
+        {
+            "Id": 40,
+            "Name": "Charcoal-Burner",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 41,
+            "Name": "Prison Guard",
+            "Strength": 7,
+            "Health": 7
+        },
+        {
+            "Id": 42,
+            "Name": "Dai-Oni",
+            "Strength": 10,
+            "Health": 10
+        },
+        {
+            "Id": 43,
+            "Name": "Ginsei, The Rorin",
+            "Strength": 10,
+            "Health": 16
+        },
+        {
+            "Id": 44,
+            "Name": "Samurai",
+            "Strength": 8,
+            "Health": 7
+        },
+        {
+            "Id": 45,
+            "Name": "Silver Samurai",
+            "Strength": 10,
+            "Health": 12
+        },
+        {
+            "Id": 46,
+            "Name": "Cave Creature",
+            "Strength": 8,
+            "Health": 22
+        },
+        {
+            "Id": 47,
+            "Name": "Eskeleton",
+            "Strength": 6,
+            "Health": 7
+        },
+        {
+            "Id": 48,
+            "Name": "Eskeleton",
+            "Strength": 7,
+            "Health": 6
+        },
+        {
+            "Id": 49,
+            "Name": "Eskeleton",
+            "Strength": 7,
+            "Health": 7
+        },
+        {
+            "Id": 50,
+            "Name": "Eskeleton",
+            "Strength": 8,
+            "Health": 9
+        },
+        {
+            "Id": 51,
+            "Name": "The Deserted",
+            "Strength": 7,
+            "Health": 9
+        },
+        {
+            "Id": 52,
+            "Name": "Gargantus",
+            "Strength": 9,
+            "Health": 12
+        },
+        {
+            "Id": 53,
+            "Name": "Fire Thrower",
+            "Strength": 10,
+            "Health": 10
+        },
+        {
+            "Id": 54,
+            "Name": "Undead Samurai",
+            "Strength": 9,
+            "Health": 3
+        },
+        {
+            "Id": 55,
+            "Name": "Phoenix",
+            "Strength": 9,
+            "Health": 7
+        },
+        {
+            "Id": 56,
+            "Name": "Black Elk",
+            "Strength": 9,
+            "Health": 18
+        }
+    ]
+}

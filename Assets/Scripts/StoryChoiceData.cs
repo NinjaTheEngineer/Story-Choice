@@ -1,15 +1,16 @@
-using System.Collections;
+using System;
 using System.Collections.Generic;
-using NinjaTools;
-using UnityEngine;
 
-[CreateAssetMenu(menuName ="Choice", fileName ="Create new story choice")]
-public class StoryChoiceData : NScriptableObject {
-    [Multiline]
+[Serializable]
+public class StoryChoiceData {
+    public int Id;
     public string storyDescription;
-    [Multiline]
     public string storyResolution;
-    public List<StoryChoiceData> nextStoryChoices;
+    public int[] nextStoryChoicesIds;
+    public int[] enemiesId;
 
-    public override string ToString() => "Description="+storyDescription+" NextChoices="+nextStoryChoices.Count;
+    [NonSerialized]
+    private List<StoryChoiceData> _nextStoryChoices;
+    public List<StoryChoiceData> NextStoryChoices => _nextStoryChoices;
+    public void SetNextStories(List<StoryChoiceData> nextStoryChoices) => _nextStoryChoices = nextStoryChoices;
 }

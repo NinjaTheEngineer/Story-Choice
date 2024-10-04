@@ -1,0 +1,54 @@
+{
+    "stories": [
+        {
+            "Id": 1,
+            "storyDescription": "The hero begins the journey. Bah",
+            "storyResolution": "You gather your weapons, your katana and wakizashi, your battle armour and Provisions. The guards salute you as you leave the main gate of Konichi. You follow the road north through the beautiful countryside surrounding the capital; soon you come to a fork in the road. ",
+            "nextStoryChoicesIds": [
+                10,
+                29
+            ],
+            "enemiesId": []
+        },
+        {
+            "Id": 2,
+            "storyDescription": "The hero encounters a dark forest.",
+            "storyResolution": "Well, man thing, here is the first riddle:  \t'In marble halls as white as milk, \tLined with a skin as soft as silk, \tWithin a fountain crystal-clear, \tA golden apple doth appear; \tNo doors are there to this stronghold \tYet thieves break in and steal the gold.'  The Tatsu stares at you in greedy anticipation. When you think you have the answer, take each letter of the answer (don't count words such as 'a' or 'the') , convert it to its corresponding number in the alphabet (i.e. a number from 1 to 26)  (F)6 + (I)9 + (R)18 + (E)5 = 38  Enter the Answer:",
+            "nextStoryChoicesIds": [
+                19,
+                26
+            ],
+            "enemiesId": []
+        },
+        {
+            "Id": 3,
+            "storyDescription": "A fierce enemy appears in the forest.",
+            "storyResolution": "The yellow eyes of the nearest monster show a gleam of intelligence as you bow in surrender. It reaches for your sword, which you decide to give it, since you still have your shorter wakizashi. The monster then motions you to cross over the ford. Your katana is the sword with which you are most skilful. Lose 1 STRENGHT until you find another katana, or Singing Death itself. You cross the ford.",
+            "nextStoryChoicesIds": [
+                245
+            ],
+            "enemiesId": []
+        },
+        {
+            "Id": 4,
+            "storyDescription": "",
+            "storyResolution": "",
+            "nextStoryChoicesIds": [],
+            "enemiesId": []
+        },
+        {
+            "Id": 5,
+            "storyDescription": "",
+            "storyResolution": "",
+            "nextStoryChoicesIds": [],
+            "enemiesId": []
+        },
+        {
+            "Id": 6,
+            "storyDescription": "",
+            "storyResolution": "",
+            "nextStoryChoicesIds": [],
+            "enemiesId": []
+        }
+    ]
+}

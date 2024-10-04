@@ -24,6 +24,9 @@ public class StoryChoice : NinjaMonoBehaviour {
             Activate();
         }
     }
+
+    public static Action<StoryChoiceData> CurrentStoryChanged;
+
     public TextMeshProUGUI storyDescriptionText;
 
     public void Deactivate() {
@@ -45,6 +48,18 @@ public class StoryChoice : NinjaMonoBehaviour {
             return;
         }
         stringWritter.WriteSentence(StoryChoiceData.storyDescription);
+    }
+    public void OnButtonClick() {
+        SetCurrentStory(StoryChoiceData);
+    }
+    private void SetCurrentStory(StoryChoiceData storyChoiceData) {
+        var logId = "SetCurrentStory";
+        if(storyChoiceData==null) {
+            logw(logId, "StoryData is null => no-op");
+            return;
+        }
+        logd(logId, "Setting CurrentStory to " + storyChoiceData.Id);
+        CurrentStoryChanged?.Invoke(storyChoiceData);
     }
     public override string ToString() => name+" StoryData="+StoryChoiceData;
 }

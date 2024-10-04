@@ -258,13 +258,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: ChoicesContainer, Assembly-CSharp
-        m_MethodName: SetNextStories
-        m_Mode: 2
+      - m_Target: {fileID: 2625266805432394309}
+        m_TargetAssemblyTypeName: StoryChoice, Assembly-CSharp
+        m_MethodName: OnButtonClick
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 2625266805432394309}
-          m_ObjectArgumentAssemblyTypeName: StoryChoice, Assembly-CSharp
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -283,7 +283,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stringWritter: {fileID: 3677848718945255872}
-  _storyChoiceData: {fileID: 11400000, guid: bc034716d22bc10419878e82fe439435, type: 2}
+  _storyChoiceData:
+    Id: 0
+    storyDescription: 
+    storyResolution: 
+    nextStoryChoicesIds: 
+    enemiesId: 
   storyDescriptionText: {fileID: 6327936700634810618}
 --- !u!114 &3677848718945255872
 MonoBehaviour:
