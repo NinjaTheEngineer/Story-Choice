@@ -1,0 +1,233 @@
+Sword of the Samurai / Introduction
+
+The world of Titan has three main continents -
+Allansia, Khakabad and Khul, the Dark Continent.
+It is on the eastern coast of Khul that the land of
+Hachiman lies; the sea on one side and mountains
+on all the others cut Hachiman off from the rest of
+the continent.
+The capital of Hachiman is Konichi and its ruler is
+Kihei Hasekawa, the Shogun. You are a young
+Samurai, the Shogun's champion, and said by many
+to be Kensei or 'Sword Saint'. You have faithfully
+followed Bushido, the Way of the Warrior, and area
+master of Kenjutsu, the Way of the Sword.
+One day the Shogun summons you to his presence
+and tells you a dreadful tale:
+'Hachiman is in grave danger. My control is slipping
+- some lords are seeking to break away and declare
+their estates independent; others have already done
+so, and plot against me. Bandits roam the land
+freely and barbarian invaders have begun to raid
+across our borders, knowing that Hachiman is
+weak. All this because the Dai-Katana, the great
+sword Singing Death, has been stolen from me.
+Singing Death is a wondrous sword, said to bestow
+great powers on its keeper, and to be the soul of
+Hachiman. He who wields Singing Death and uncovers
+the secret of the sword will rule Hachiman,'
+the Shogun continues. 'Many lords say I now have
+no right to rule; some seek to take the sword for
+themselves,
+others have already changed their
+allegiance to he who now holds the sword. And no
+keeper could be worse: it is Ikiru, Master of Sha-
+dows, that soulless dog who cowers in his mountain
+fastness, Onikaru, the Pit of Demons. Now that he
+has the sword, Bakemono-Sho and Shikome are
+flocking to his banners, and he summons forth
+Shura, warrior ghosts, from the pit to aid him. Soon,
+if he uncovers the secret of the sword, he will
+overrun our beautiful land of cherry blossoms.
+You have senki, war spirit, and to you lentrust this
+mission. Go, my champion, to Onikaru, slay Ikiru
+and bring me Singing Death. It will nut be easy. To
+slay Ikiru and to defeat his internal allies you will
+have to uncover the secret of Singing Death. I
+cannot tell you the secret, for it is written that he
+who freely reveals it will be damned for ever to the
+nether regions, and Singing Death will disappear
+from the world of men. You will have to solve the
+puzzle wourself. I will pray to the Kami of the
+Heavens for your success, and may Hotei god of
+luck smile on you. Here, take this, the Seal of the
+Shogun. It will give you safe passage through those
+areas still loyal to me.'
+
+
+
+1.
+You gather your weapons, your katana
+and wakizashi, your battle armour
+and Provisions. The guards salute you as you leave
+the main gate of Konichi. You follow the road north
+through the beautiful countryside surrounding the
+capital; soon you come to a fork in the road. 
+10 - Go west and north, to the Forest of Shadows, Hagakure Bridge 
+and on to the Shios'ii Mountains 
+29 - Go east, to the ford, through the Mizokumo
+Fens and thence to the mountains?
+
+2.
+Well, man thing, here is the first riddle:
+
+\n'In marble halls as white as milk,
+\nLined with a skin as soft as silk,
+\nWithin a fountain crystal-clear,
+\nA golden apple doth appear;
+\nNo doors are there to this stronghold
+\nYet thieves break in and steal the gold.'
+
+The Tatsu stares at you in greedy anticipation.
+When you think you have the answer, take each
+letter of the answer (don't count words such as 'a' or 'the')
+, convert it to its corresponding number in the
+alphabet (i.e. a number from 1 to 26)
+
+(F)6 + (I)9 + (R)18 + (E)5 = 38
+
+Enter the Answer: (19 is the correct answer) (EGG)
+19 - Correct
+26 - Incorrect
+If the paragraph you turn to is the wrong one (it
+won't make sensel), turn to 26.
+
+3. 
+The yellow eyes of the nearest monster show a
+gleam of intelligence as you bow in surrender. It
+reaches for your sword, which you decide to give it,
+since you still have your shorter wakizashi. The
+monster then motions you to cross over the ford.
+Your katana is the sword with which you are most
+skilful. Lose 1 STRENGHT until you find
+another katana, or Singing Death itself. You cross
+the ford.
+-> 245
+
+4. 
+You hurtle down the stairs as fast as you can. You
+can hear the guards behind you, but their footfalls
+stop at the top of the stairs. A laugh echoes down
+the stairs, as does the voice of another: 'We shall
+never see that one again. The Mukade will see to
+that!" You run on, knowing you cannot go back: you
+will have to face whatever lies ahead. At the bottom
+of the stairs a dank, rough-cut tunnel runs into blackness ahead. Test your luck. Tf you are Lucky,
+turn to 16. If you are Unlucky, turn to 38.
+
+5.
+Suspicious of whatever caused the old charcoal-
+burner's death, you skirt the perimeter of the vil-
+lage, but all looks normal and peaceful. Peasants go
+about their business, mostly returning home as
+dusk falls. Some of the older villagers are gathering
+outside the headman's house. 
+Ask one of the peasants for hospitality.  (turn to 71)
+Join the elders at the headman's house. (turn to 319)?
+
+6.
+It is an easy matter to bury yourself in the hay
+without the driver noticing. Soon you can hear the
+guards questioning him and then the sound of the
+great oak doors rumbling open. 
+Test your luck. 
+-> If Lucky, turn to 14. If Unlucky, turn to 28.
+
+7.
+Shielding your head with your wakizashi, you give
+ground as a storm of flaming brands sizzle through
+the air. One catches on the fastening of your lac-
+quered armour, burning you badly.
+(lose 2 HEALTH points). -> Check death
+You utter a bloodcurdling cry of rage and lop off the fire-wielder's
+head with one clean sweep of your katana. You
+charge the rest, but they scatter into the woods. You
+beat out the flames that are threatening to consume
+you. 
+You have defended the Shogun's honour add 1 Honor. (Turn to 195)
+
+8.
+You are slowly working your way up the mountain-
+side when a tingling sensation, like an itch on your
+brain, causes you to pull up short. You lookup, and
+suddenly an imposing figure stands before you.
+Dressed in fine robes and armour of silver and gold,
+it is a tall, muscular man-like being. Its face is
+handsome to look upon, clean and pure; but it is the
+purity of complete evil. Its eyes burn with violet
+flame and its whole being radiates power and
+malice. It is a Dai-Oni, or greater demon.
+
+"So, mortal, you would seek entry to the domain of
+Ikiru, Master of Shadows?' it says, its words tes-
+in the wet her othe lose Themust carom
+begins to fade, laughing maniacally, the laughter
+echoing like thunder all around you.
+
+Suddenly you lind yourself in open space. In every
+direction stretch the endless stars, and your mind
+reels as you try to take it all in. Then your vision fixes
+on the doors, bringing you back from the edge of
+madness. You are surrounded by eight doors, one
+in each of the walls of an octagonal room; but the
+walls, ceiling and Boor are transparent.
+
+Then the voice of the Dai-Oni fills your head. This
+place is called the Flub. Behind each door lies some
+powerful beast. You must try to win as many of
+these creatures over to your cause as you can. They
+will then aid you in battle. For, when you are ready,
+you will have to face me and my allies in a struggle
+to the death at the Place of Battle. If, somehow, you
+should triumph, then you may enter the Pit of
+Demons and there meet your fate at the hands of
+Tkiru. So let it begin, and may fortune desert you
+and the blight of a thousand sores be visited upon
+you.' The voice fades. It seems you have no choice
+but to play the Tourney of the Planes. Each door is
+labelled. Which door will you go through first:
+
+-> The Pinnacle of Ultimate Height (Turn to 30)
+-> The Elder Plains (Turn to 68)
+-> The Mountain of Ineffable Holiness? (Turn to 66)
+-> The Endless Sands of Akhon? (Turn to 78)
+-> The Swamps of Primordial Mire? (Turn to 98)
+-> The Eternal Tower? (Turn to 110)
+-> The Enchanted Wood? (Turn to 126)
+-> The Place of Battle? (Turn to 138)
+
+9.
+Hailing wildly, you fight your way to the village's
+edge and then run into the darkness. The Rokuro-
+Kubi that remain intact after the savage beating
+inflicted on them decide to let you go. You have
+survived the Village of the Undead. 
+(Add 1 to your LUCK) => Turn to 397
+
+10.
+You journey on through the lands of Hachiman.
+Wherever you pass, people bow with respect, rec-
+ognizing either the Shogun's champion or the Sho-
+gun's seal. This close to Konichi the land is as it ever
+was, peaceful and happy. After a few days, habi-
+tations become more sparse. You are travelling
+through the domain of Lord Tsietsin when you
+notice a plume of smoke on the horizon. As you
+draw near, you can see it is a burning village. You
+shake your head sorrowfully at the state Bachiman
+is in, when raiders can strike into the heart of one of
+the lords territories. A dusty track leads from the
+road to the village. 
+Investigate the village. (turn to 34)
+Decide your mission is too important and press on? (turn to 24)
+
+11.
+You tell the elders that you have left some belong-
+ings outside the village and that you will return with
+them shortly, but they seem unwilling to let you go.
+You end up forcing your way past them and walk-
+ing behind some houses to avoid their prying eyes,
+When out of sight you make for the village's end.
+(Turn to 15)
+
+
